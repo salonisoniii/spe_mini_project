@@ -42,6 +42,7 @@ class SpeMiniProjectApplicationTests {
 		assertEquals(2.302585092994046, SpeMiniProjectApplication.naturalLog(10.0), 0.0000001);
 	}
 
+
 	@Test
 	public void testPower() {
 		assertEquals(8.0, SpeMiniProjectApplication.power(2.0, 3.0));
