@@ -20,4 +20,4 @@
         state: started
 
     - name: Running container
-      shell: docker run -it -d --name calculator salonisoni/spe_mini_project
+      shell: docker run -it -d --name calculator1 salonisoni/spe_mini_project
